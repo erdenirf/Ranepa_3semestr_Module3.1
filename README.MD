@@ -26,6 +26,12 @@ source calculus_env_v2/bin/activate  # macOS/Linux
 pip install -r requirements.txt
 ```
 
+Шаг 5. Запуск программы
+
+```
+python calculus_core.py
+```
+
 # Docker
 
 Для установки и запуска из Dockerfile используй эти команды
